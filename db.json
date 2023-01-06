@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "doggo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Picture_of_a_Dog%2C_%22Doggo%22%2C_%22Pupper%22.jpghttps://upload.wikimedia.org/wikipedia/commons/a/a0/Picture_of_a_Dog%2C_%22Doggo%22%2C_%22Pupper%22.jpg",
+      "likes": null,
+      "id": 9
     }
   ]
 }
